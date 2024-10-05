@@ -1,3 +1,3 @@
-# goit-markup-hw-01
+# goit-markup-hw-02
 
-homework1 go it week 1
+homework2 go it week 2
