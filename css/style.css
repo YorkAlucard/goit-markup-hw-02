@@ -19,7 +19,6 @@ li {
 
 .header-navigat-logo {
   font-family: 'Raleway', sans-serif;
-  font-optical-sizing: auto;
   font-style: normal;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -35,7 +34,6 @@ li {
 
 .footer-navigat-logo {
   font-family: 'Raleway', sans-serif;
-  font-optical-sizing: auto;
   font-style: normal;
   text-transform: uppercase;
   color: #4d5ae5;
